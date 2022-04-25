@@ -1,2 +1,6 @@
 *.out
 *.exe
+.idea/
+.vscode/
+Python_Certificate/
+
